@@ -33,7 +33,7 @@
   },
   "homepage": "#readme",
   "peerDependencies": {
-    "@clinext/sdk": "*"
+    "underscore": "*"
   },
   "scripts": {
     "semantic-release": "semantic-release",
